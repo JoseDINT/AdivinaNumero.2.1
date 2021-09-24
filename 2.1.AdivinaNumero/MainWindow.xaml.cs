@@ -59,7 +59,7 @@ namespace _2._1.AdivinaNumero
             numero = GenerarNumero();
 
             SalidaTextBlock.Text = "";
-            ResultadoTextBox.Text = String.Empty;
+            ResultadoTextBox.Text = "";
 
         }
     }
